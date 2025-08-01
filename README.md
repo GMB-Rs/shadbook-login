@@ -67,3 +67,5 @@ export default tseslint.config([
   },
 ])
 ```
+<img width="1366" height="651" alt="Captura de tela de 2025-08-01 01-35-16" src="https://github.com/user-attachments/assets/a0e89c57-8d27-497f-a429-7b00e90041a1" />
+<img width="297" height="592" alt="Captura de tela de 2025-08-01 01-35-41" src="https://github.com/user-attachments/assets/19693657-adea-42d6-9743-459b15ff1a7f" />
